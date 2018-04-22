@@ -1,0 +1,9 @@
+server-*.json
+.idea
+conf
+out
+project
+spark-warehouse
+target
+src/main/node/node_modules
+src/main/node/assets/*
